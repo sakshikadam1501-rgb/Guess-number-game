@@ -20,3 +20,5 @@ The game includes difficulty levels, hint system, scoring logic, and high-score 
 ▶ Run
 
 python guess_no.py
+
+git clone https://github.com/sakshikadam1501-rgb/Guess-number-game
